@@ -28,4 +28,4 @@ An example of how to use the command is found below:
 python3 fixCopyright home/myFolder 2 1
 ```
 
-You can also modify the ```cpp_copyright_block.txt``` or ```tcl_copyright_block.txt``` file to change the copyright format.
+You can also modify the ```cpp_copyright_block.txt``` or ```tcl_copyright_block.txt``` file to change the copyright format (currently BSD 3).
