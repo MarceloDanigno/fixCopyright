@@ -83,7 +83,6 @@ for fileTextData in allFiles:
                     foundEnd = True
                     endLine = lineCounter
         lineCounter += 1
-    print(str(startLine) + " " + str(endLine) + " " + str(foundStart) + " " + str(foundEnd) + fileTextData)
     f.close()
     f = open(fileTextData, "w", encoding="utf8", errors='ignore')
     exportText = []
